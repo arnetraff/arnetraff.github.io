@@ -57,7 +57,7 @@ main div {
 
 .img-container {
 	height:300px;
-	width: 150px;
-	background-size: contain;
+	width: 200px;
+	background-size: cover;
 	background-repeat: no-repeat;
 }
