@@ -1,14 +1,32 @@
 [
   {
-    "title": "some game I made",
-    "date": "03.2019 - 06.2019",
-    "imgUrl": "assets/img/myimage.gif",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "title": "Gunfire",
+    "date": "03.2016 - 06.2018",
+    "imgUrl": "assets/img/gunfire.png",
+    "description": "Gunfire is a top down cross platform multiplayer shooter."
   },
   {
-    "title": "another project I made",
-    "date": "03.2019 - 05.2019",
+    "title": "HexaBounce",
+    "date": "03.2018 - 05.2018",
+    "imgUrl": "assets/img/hexabounce.png",
+    "description": "HexaBounce is a casual colorful game."
+  },
+  {
+    "title": "Mobo Wallpapers",
+    "date": "03.2018 - 05.2018",
     "imgUrl": "assets/img/anotherimage.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "description": "App with Collection of high definition wallpapers, curated for your screen."
+  },
+  {
+    "title": "Mobo Bollywood",
+    "date": "03.2018 - 05.2018",
+    "imgUrl": "assets/img/anotherimage.png",
+    "description": "App using Youtube API to filter songs."
+  },
+  {
+    "title": "Food Prototype",
+    "date": "03.2018 - 05.2018",
+    "imgUrl": "assets/img/food.png",
+    "description": "Prototype app for food based product."
   }
 ]
