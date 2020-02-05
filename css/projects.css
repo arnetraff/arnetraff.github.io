@@ -54,3 +54,7 @@ main div {
 .list {
     margin-left: 0;
 }
+
+.img-container {
+	height:300px;
+}
