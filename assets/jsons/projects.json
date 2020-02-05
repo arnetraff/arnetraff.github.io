@@ -1,5 +1,11 @@
 [
-  {
+ {
+    "title": "Social App",
+    "date": "",
+    "imgUrl": "assets/img/site.png",
+    "description": "Beautiful UI/UX Mobile app built using latest technologies."
+  }, 
+ {
     "title": "Gunfire",
     "date": "03.2016 - 06.2018",
     "imgUrl": "assets/img/gunfire.png",
@@ -17,16 +23,5 @@
     "imgUrl": "assets/img/anotherimage.png",
     "description": "App with Collection of high definition wallpapers, curated for your screen."
   },
-  {
-    "title": "Mobo Bollywood",
-    "date": "03.2018 - 05.2018",
-    "imgUrl": "assets/img/anotherimage.png",
-    "description": "App using Youtube API to filter songs."
-  },
-  {
-    "title": "Food Prototype",
-    "date": "03.2018 - 05.2018",
-    "imgUrl": "assets/img/food.png",
-    "description": "Prototype app for food based product."
-  }
+  
 ]
