@@ -26,10 +26,11 @@
 
 .img-container {
     transition: all .5s ease;
-    border-radius: 4px;
-    border: 1px solid var(--main-font-color);
-    width:150px;
     padding: 0px 10px;
+
+	height:350px;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 .single-project:hover {
@@ -53,11 +54,4 @@ main div {
 
 .list {
     margin-left: 0;
-}
-
-.img-container {
-	height:300px;
-	width: 200px;
-	background-size: cover;
-	background-repeat: no-repeat;
 }
