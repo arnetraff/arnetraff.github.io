@@ -15,7 +15,7 @@
     "title": "Products Background Remover",
     "date": "",
     "imgUrl": "assets/img/product.png",
-    "description": "For sites like EBAY and Amazon. Automate the tasks of removing backgrounds from the product images, using OpenCV and Python<br/><i>Built for client.</i>"
+    "description": "For sites like EBAY and Amazon. Automate the tasks of removing backgrounds from the product images, using OpenCV, Machine Learning and Python<br/><i>Built for client.</i>"
   },
 {
     "title": "Hexa Bounce",
@@ -32,11 +32,5 @@
   
 
 
-  {
-    "title": "Mobo Wallpapers",
-    "date": "03.2018 - 05.2018",
-    "imgUrl": "assets/img/anotherimage.png",
-    "description": "App with Collection of high definition wallpapers, curated for your screen."
-  }
   
 ]
