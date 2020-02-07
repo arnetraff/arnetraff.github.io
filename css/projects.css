@@ -27,9 +27,9 @@
 .img-container {
     transition: all .5s ease;
     padding: 0px 10px;
-
+	width:200px;
 	height:350px;
-	background-size: contain;
+	background-size: cover;
 	background-repeat: no-repeat;
 }
 

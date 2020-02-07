@@ -1,22 +1,37 @@
 [
  {
-    "title": "Social App",
+    "title": "Comsians",
     "date": "",
     "imgUrl": "assets/img/site.png",
-    "description": "Beautiful UI/UX Mobile app built using latest technologies."
+    "description": "Beautiful UI/UX responsive web app built using MERN stack."
   }, 
+{
+    "title": "Tom's Gallery",
+    "date": "",
+    "imgUrl": "assets/img/tom's.jpg",
+    "description": "Amazing website showing amazing work.<br/><i>Built for client</i>"
+  },
+{
+    "title": "Products Background Remover",
+    "date": "",
+    "imgUrl": "assets/img/product.png",
+    "description": "For sites like EBAY and Amazon. Automate the tasks of removing backgrounds from the product images, using OpenCV and Python<br/><i>Built for client.</i>"
+  },
+{
+    "title": "Hexa Bounce",
+    "date": "",
+    "imgUrl": "assets/img/hexabounce.png",
+    "description": "A casual colorful game for mobile phones.<br><i>Built for client</i>"
+  },
  {
     "title": "Gunfire",
     "date": "03.2016 - 06.2018",
     "imgUrl": "assets/img/gunfire.png",
-    "description": "Gunfire is a top down cross platform multiplayer shooter."
+    "description": "Gunfire a.k.a CS2D - is a top down cross platform multiplayer shooter game available for both Android and Windows with servers written in Java.<br/>More info can be found at <a href='http://www.unrealsoftware.de/files_show.php?file=17734' target='_blank'>Here</a>"
   },
-  {
-    "title": "HexaBounce",
-    "date": "03.2018 - 05.2018",
-    "imgUrl": "assets/img/hexabounce.png",
-    "description": "HexaBounce is a casual colorful game."
-  },
+  
+
+
   {
     "title": "Mobo Wallpapers",
     "date": "03.2018 - 05.2018",
